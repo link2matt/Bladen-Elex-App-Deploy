@@ -1,0 +1,12 @@
+name: Bladen-Mail-In-Ballots-Map-US-Congress-2018
+title: Bladen-Mail-In-Ballots-Map-US-Congress-2018
+username:
+account: link2matt
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 611066
+bundleId: 1751776
+url: https://link2matt.shinyapps.io/Bladen-Mail-In-Ballots-Map-US-Congress-2018/
+when: 1544407386.61546
+asMultiple: FALSE
+asStatic: FALSE
